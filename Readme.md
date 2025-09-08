@@ -9,6 +9,7 @@ Ativamos as chaves e incluímos a chave publica no Github
 
 ## Terceira aula conectando o Git com o Github
 
-Criamo repositório remoto e conectamos ao git
+Criamos repositório remoto e conectamos ao git
 
+Teste feature
 
